@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikachu is Mine.CSharp", "Pikachu is Mine.CSharp.csproj", "{99275581-1A8F-2C20-AB6F-2EF29E218CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99275581-1A8F-2C20-AB6F-2EF29E218CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99275581-1A8F-2C20-AB6F-2EF29E218CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99275581-1A8F-2C20-AB6F-2EF29E218CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99275581-1A8F-2C20-AB6F-2EF29E218CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
